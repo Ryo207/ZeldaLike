@@ -57,6 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\PathFinding.cs" />
+    <Compile Include="Assets\Script\Player Script\BAB_PlayerController.cs" />
+    <Compile Include="Assets\Script\Player Script\BAB_PlayerCombat.cs" />
+    <Compile Include="Assets\Script\Enemy Script\BAB_EnemyHealth.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

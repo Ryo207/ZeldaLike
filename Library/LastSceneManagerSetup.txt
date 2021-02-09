@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/BDC_EmptyRoom.unity
+- path: Assets/_Scenes/BAB_Scene_Test.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
